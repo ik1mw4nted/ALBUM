@@ -1,0 +1,147 @@
+body {
+    background-color: black;
+    background-color: rgb(0, 0, 0);
+}
+
+p {
+    color: #ffffff;
+}
+
+ol {
+    color: #ffffff;
+}
+
+b {
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+    width: 6%;
+}
+
+a {
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a7c4f4;
+}
+
+/* images */
+
+#logo {
+    color: #ffffff;
+    top: 8;
+    left: 1050;
+    position: absolute;
+}
+
+#photo {
+    border: 4px solid #ffffff;
+    display: block;
+    margin: auto;
+    width: 300;
+    bottom: 150;
+    top: 0;
+    left: 800;
+    position: absolute;
+}
+
+
+h1 {
+    color: #a7c4f4;
+    top: 90;
+    left: 975;
+    position: absolute;
+}
+
+h2 {
+    color: #ffffff;
+    top: 197;
+    left: 1030;
+    position: absolute;
+}
+
+p {
+    color: #ffffff;
+    top: 900;
+    left: 700;
+    right: 740;
+    position: absolute;
+    letter-spacing: 1;
+    text-justify: auto;
+    float: left;
+    width: 1000x;
+    line-height: 1;
+    font-size: 35;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#letter {
+    color: #a7c4f4;
+    text-decoration: underline;
+}
+
+.link {
+    color: white;
+    text-decoration: underline;
+}
+
+audio {
+    top: 865;
+    left: 990;
+    right: 280;
+    position: absolute;
+}
+
+#flem {
+    color: #ffffff;
+    top: 750;
+    left: 1475;
+    right: 280;
+    position: absolute;
+}
+
+#list1 {
+    color: #ffffff;
+    top: 373;
+    left: 570;
+    right: 280;
+    font-size: 35;
+    position: absolute;
+
+}
+
+#list2 {
+    color: #ffffff;
+    top: 350;
+    left: 1475;
+    right: 280;
+    font-size: 35;
+    position: absolute;
+
+}
